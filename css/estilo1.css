@@ -1,0 +1,532 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+background-image: url(../imagenes/fondo_editado.jpg);   
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+overflow-x: hidden; 
+}
+.logo{
+  position: relative;
+    top: 15px;
+    bottom: ;
+    right: ;
+    left: 125px;
+}
+.carousel{
+    width: 1250px;
+    max-width: 1250px;
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 125px;
+}
+
+.carousel-inner h5{
+   font-size: 80px;
+    position: relative;
+    top: ;
+    bottom:0px ;
+    right: 0px;
+    left: ;
+}
+.bot{
+    margin: -100px;
+    position: relative;
+    top: 100px;
+    bottom:0px ;
+    right: 0px;
+    left: 150px;
+}
+.home{
+    background-color: rgba(255, 255, 255, .5)
+    
+}
+.btn-primary{
+    background-color:rgba(255, 255, 255, 0);
+    color: white;
+    border-color:	rgba(255, 255, 255, 0)
+}
+.b1{
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left:150px ;
+}
+
+.b2{
+    position: relative;
+    top: ;
+    bottom: 38px;
+    right: ;
+    left:250px ;
+}
+
+.b3{
+    position: relative;
+    top: ;
+    bottom: 76px;
+    right: ;
+    left:400px ;
+}
+
+.b4{
+    position: relative;
+    top: ;
+    bottom: 114px;
+    right: ;
+    left:540px ;
+}
+
+.b5{
+    position: relative;
+    top: ;
+    bottom: 152px;
+    right: ;
+    left:720px ;
+}
+
+.b6{
+    position: relative;
+    top: ;
+    bottom: 190px;
+    right: ;
+    left:920px ;
+}
+
+.vehiculo{
+    background-color:rgba(159, 159, 159, .8) ;
+
+}
+.Reservas{
+    background-image: url(../imagenes/parqueadero_2_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    
+    height: 600px;
+}
+.linea {
+    border-top: 5px solid white;
+    height: 2px;
+    max-width: 100px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    position: relative;
+    top: 50px;
+    bottom: ;
+    right: 400px;
+    left: ;
+  }
+.vehiculo h2{
+    color: #419BFE;
+    font-size: 80px;
+    position: relative;
+    top:50px ;
+    bottom: ;
+    right: ;
+    left: 200px;
+}
+.linea1 {
+    border-top: 5px solid white;
+    height: 2px;
+    max-width: 120px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: ;
+  }
+
+  .linea1 h6 {
+   font-size: 25px;
+   width: 110px;
+  }
+  .text1{
+    position: relative;
+    top:20px ;
+    bottom: ;
+    right: 500px;
+    left: ;
+  }
+  .text2{
+    position: relative;
+    top:;
+    bottom:30px ;
+    right: 300px;
+    left: ;
+  }
+
+  .text3{
+    position: relative;
+    top:;
+    bottom:80px ;
+    right: 100px;
+    left: ;
+  }
+
+  .text4{
+    position: relative;
+    top:;
+    bottom:130px ;
+    right: ;
+    left:90px ;
+  }
+
+  .res{
+    font-size: 80px;
+    color: #419BFE;
+    position: relative;
+    top:10px;
+    bottom: ;
+    right: ;
+    left:80px ;
+  }
+.subres{
+  color: white;
+    font-size: 50px;
+    position: relative;
+    top:;
+    bottom:30px ;
+    right: ;
+    left:100px ;
+}
+  .reserva {
+
+    font-size: 20px;
+    width: 350px;
+  }
+
+  .txt1{
+    position: relative;
+    top:50px;
+    bottom: ;
+    right: ;
+    left: 200px;
+  }
+  .p_1{
+    position: relative;
+    top:s;
+    bottom:80px ;
+    right: ;
+    left:50px;
+  }
+
+  .txt2{
+    position: relative;
+    top:;
+    bottom:150px ;
+    right: ;
+    left: 700px;
+  }
+  .p_2{
+    position: relative;
+    top:s;
+    bottom: 320px;
+    right: ;
+    left:500px ;
+  }
+
+  .txt3{
+    position: relative;
+    top:;
+    bottom:400px ;
+    right: ;
+    left: 1180px;
+  }
+  .p_3{
+    position: relative;
+    top:s;
+    bottom: 525px;
+    right: ;
+    left:1040px ;
+  }
+
+  .Configuracion{
+    background-color: #535353;
+  }
+
+  .Configuracion h2{
+    font-size: 75px;
+    color: white;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left: 500px;
+  }
+
+  .Configuracion h4{
+    font-size: 40px;
+    color: #419BFE;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left: 230px;
+  }
+
+  .Configuracion h6{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left: 405px;
+    text-align: center;
+    width: 700px;
+  }
+
+  .pc{
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:630px;
+    text-align: center;
+    
+  }
+
+  .Nosotros{
+    background-color: rgba(255, 255, 255, .5);
+    height: 750px;
+    
+  }
+
+
+  .Nosotros h2{
+    font-size: 100px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:610px;
+  }
+
+  .jp{
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:180px;
+
+  }
+
+  .avjp{
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:180px;
+  }
+
+  .jpp{
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    position: relative;
+    top:;
+    bottom:500px;
+    right: ;
+    left:680px;
+
+  }
+
+  .avjpp{
+    position: relative;
+    top:;
+    bottom:400px;
+    right: ;
+    left:680px;
+  }
+
+  .sr{
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    position: relative;
+    top:;
+    bottom:800px;
+    right: ;
+    left:1180px;
+
+  }
+
+  .avsr{
+    position: relative;
+    top:;
+    bottom:700px;
+    right: ;
+    left:1180px;
+  }
+
+  .Quienessomos{
+    background-image: url(../imagenes/fondo_editado_3.JPG);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 300px;
+  }
+
+  .Quienessomos h2{
+    color: #0074FF;
+    font-size: 70px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:500px;
+  }
+
+  .Quienessomos h3{
+    font-size: 30px;
+    text-align: center;
+    
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:;
+  }
+
+  .Contactenos h2{
+    font-size: 70px;
+    color: white;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:50px;
+  }
+
+  .Contactenos h4{
+    font-size: 40px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:80px;
+  }
+
+  form label{
+    color: white;
+    font-weight: 500;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:30px;
+  }
+
+  form .row{
+    width: 1000px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:60px;
+  }
+
+  .form-group{
+    width: 1000px;
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:60px;
+  }
+
+  .sup{
+    position: relative;
+    top:;
+    bottom:;
+    right: ;
+    left:200px;
+  }
+
+  .btn-secondary{
+    background-color:#0074FF;
+    color: white;
+    border-color:	#0074FF;
+    
+    position: relative;
+    top: ;
+    bottom:0px ;
+    right: 0px;
+    left: 280px;
+  }
+
+footer{
+  background-color: rgb(47, 46, 46);
+  height: 150px;
+  
+}
+.mover{
+  position: relative;
+    top: ;
+    bottom:70px ;
+    right: ;
+    left: ;
+}
+footer p{
+  color: white;
+}
+
+.fc{
+  position: relative;
+    top:100px ;
+    bottom:0px ;
+    right: 0px;
+    left: 800px;
+}
+
+.ins{
+  position: relative;
+    top:60px ;
+    bottom:0px ;
+    right: 0px;
+    left: 850px;
+}
+
+.cr{
+  position: relative;
+    top: 10px;
+    bottom: ;
+    right: 0px;
+    left: 920px;
+}
+
+.sigrd{
+  position: relative;
+  top: ;
+  bottom:110px ;
+  right: 0px;
+  left: 800px;
+}
+
+.cor {
+  position: relative;
+    top: ;
+    bottom:35px ;
+    right: ;
+    left:90px ;
+}
+
+.tp{
+ 
+    position: relative;
+      top:100px ;
+      bottom: ;
+      right: ;
+      left:100px ;
+
+}
